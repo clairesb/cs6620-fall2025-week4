@@ -1,19 +1,18 @@
-
-
-
-
 def add(a, b):
     """Add two numbers"""
     return a+b
-# Add extra line
+
+
 def subtract(a, b):
     """Subtract two numbers"""
     return a - b
-# Add extra line
+
+
 def multiply(a, b):
     """Multiply two numbers"""
     return a*b
-# Add extra line
+
+
 def divide(a, b):
     """Divide two numbers"""
     if b == 0:
