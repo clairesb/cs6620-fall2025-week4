@@ -2,7 +2,7 @@ name: Python CI with Linting
 
 on:
   push:
-    branches: [ main, develop ]
+    branches: [ main, develop, fix-lint-errors ]
   pull_request:
     branches: [ main, develop ]
 
